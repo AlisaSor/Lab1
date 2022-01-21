@@ -9,7 +9,7 @@ namespace Questionnaire
             Console.WriteLine(">> Вводите слова, завершая каждое нажатием Enter");
             Console.WriteLine(">> Для выхода наберите \"exit\"");
             Console.WriteLine(">> Для выхода наберите \"exit\"");
-            Console.WriteLine(">> Для выхода наберите \"exit\"");
+         
 
             var word = "";
             var maxLength = 0;
